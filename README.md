@@ -35,11 +35,11 @@
 
 <br>
     <td align="center" width="300" style="padding: 10px;">
-      <img src="project_logos/doctoo.png" width="120" height="120" alt="Doctoo Logo" />
-      <h3>Doctoo</h3>
-      <p>Clinic management system to digitize prescriptions with multilingual support.</p>
-      <sub><strong>Stack:</strong> HTML, CSS, JS, Razorpay, OTP Auth, Captcha</sub><br/>
-      <a href="https://github.com/SimarjeetSArora/Doctoo">
+      <img src="project_logos/InsiderJobs.svg" width="120" height="120" alt="Insiderjobs Logo" />
+      <h3>Insider Jobs</h3>
+      <p>Job portal built to connect real talent with real startups — faster hiring, smarter matching.</p>
+      <sub><strong>Stack:</strong> React.js, Tailwind.css, Node.js, MongoDB, Clerk Authentication, Sentry </sub><br/>
+      <a href="https://github.com/TanishqPawar12/Job-Portal">
         <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
       </a>
     </td>
@@ -85,17 +85,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimarjeetSArora&show_icons=true&theme=tokyonight" alt="stats" height="160" style="padding:5px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimarjeetSArora&layout=compact&theme=tokyonight" alt="top langs" height="160" style="padding:5px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanishqPawar12&show_icons=true&theme=tokyonight" alt="stats" height="160" style="padding:5px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqPawar12&layout=compact&theme=tokyonight" alt="top langs" height="160" style="padding:5px" />
 </p>
 
 ---
 
 ### ✨ Fun Facts
 
-- 📸 I love photography "especially nature and outdoor scenes"  
-- 🏔️ I dream of building a peaceful retreat in Mcleodganj  
-- 📝 I write journals and poems in my free time  
+💻 I enjoy creating web projects, especially those that support real-world causes like specially-abled artisans
+
+🧠 I'm on a journey to master DSA and DevOps — one bug, one deploy at a time
+
+🏞️ I find peace in solo moments, whether it’s studying at the library or writing down thoughts in a quiet corner 
 
 <br/>
 
