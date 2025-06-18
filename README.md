@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#facc15;">Simarjeet Singh Arora</span></h1>
-<h3 align="center">🌐 Web Developer | ⚡ FastAPI & React Enthusiast | 🤝 Social-Tech Innovator</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#facc15;">Tanishq Pawar</span></h1>
+<h3 align="center">🌐 MERN Stack Developer | ⚡ React.js & Node.js Enthusiast | 🤝 Social-Tech Innovator</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/simarjeet-singh-arora-310934267"><img src="logos/linkedin.png" width="60" height="60" style="padding:25px"></a>
-  <a href="mailto:simarjeetsingharora15@gmail.com"><img src="logos/email.png" width="60" height="60" style="padding:25px""></a>
-  <a href="https://github.com/SimarjeetSArora"><img src="logos/github.png" width="60" height="63" style="padding:20px"></a>
+  <a href="https://www.linkedin.com/in/tanishq-pawar-11844424a/"><img src="logos/linkedin.png" width="60" height="60" style="padding:25px"></a>
+  <a href="mailto:pawartanishq786@gmail.com"><img src="logos/email.png" width="60" height="60" style="padding:25px""></a>
+  <a href="https://github.com/TanishqPawar12"><img src="logos/github.png" width="60" height="63" style="padding:20px"></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 🎓 **B.Tech Graduate** in Computer Science and IT – Acropolis Institute of Technology and Research  
 💡 Passionate about building meaningful tech that creates social impact  
-🔧 Skilled in full-stack development using React, FastAPI, and MySQL
+🔧 Skilled in full-stack development using React.js, Node.js, MongoDB etc.
 
 ---
 
@@ -35,20 +35,20 @@
 
 <br>
     <td align="center" width="300" style="padding: 10px;">
-      <img src="project_logos/sable.png" width="120" height="120"  alt="SABLE Logo" />
-      <h3>SABLE</h3>
-      <p>Online shop for specially abled artisans with translation and payment integration.</p>
-      <sub><strong>Stack:</strong> HTML, CSS, JS, Bootstrap, MySQL, Razorpay</sub><br/>
-      <a href="https://github.com/SimarjeetSArora/SABLE">
-        <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
-      </a>
-    </td>
-    <td align="center" width="300" style="padding: 10px;">
       <img src="project_logos/doctoo.png" width="120" height="120" alt="Doctoo Logo" />
       <h3>Doctoo</h3>
       <p>Clinic management system to digitize prescriptions with multilingual support.</p>
       <sub><strong>Stack:</strong> HTML, CSS, JS, Razorpay, OTP Auth, Captcha</sub><br/>
       <a href="https://github.com/SimarjeetSArora/Doctoo">
+        <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
+      </a>
+    </td>
+    <td align="center" width="300" style="padding: 10px;">
+      <img src="project_logos/sable.png" width="120" height="120"  alt="SABLE Logo" />
+      <h3>SABLE</h3>
+      <p>Online shop for specially abled artisans with translation and payment integration.</p>
+      <sub><strong>Stack:</strong> HTML, CSS, JS, Bootstrap, MySQL, Razorpay</sub><br/>
+      <a href="https://github.com/SimarjeetSArora/SABLE">
         <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
       </a>
     </td>
