@@ -35,7 +35,7 @@
 
 <br>
     <td align="center" width="300" style="padding: 10px;">
-      <img src="project_logos/InsiderJobs.svg" width="120" height="120" alt="Insiderjobs Logo" />
+      <img src="project_logos/insiderjobs.png" width="120" height="120" alt="Insiderjobs Logo" />
       <h3>Insider Jobs</h3>
       <p>Job portal built to connect real talent with real startups — faster hiring, smarter matching.</p>
       <sub><strong>Stack:</strong> React.js, Tailwind.css, Node.js, MongoDB, Clerk Authentication, Sentry </sub><br/>
@@ -63,18 +63,20 @@
 
 <p align="center">
 <img src="assets/skills/java.png" alt="Java" width="40" style="padding:5px" />
-<img src="assets/skills/python.png" alt="Python" width="40" style="padding:5px" />  
 <img src="assets/skills/javascript.png" alt="JavaScript" width="40" style="padding:5px" />  
 <img src="assets/skills/html.png" alt="HTML" width="40" style="padding:5px" />  
 <img src="assets/skills/css.png" alt="CSS" width="40" style="padding:5px" />  
 <img src="assets/skills/react.png" alt="React" width="40" style="padding:5px" />  
-<img src="assets/skills/fastapi.png" alt="FastAPI" width="40" style="padding:5px" />  
-<img src="assets/skills/django.png" alt="Django" width="40" style="padding:5px" />  
-<img src="assets/skills/mysql.png" alt="MySQL" width="40" style="padding:5px" />  
-<img src="assets/skills/postgresql.png" alt="PostgreSQL" width="40" style="padding:5px" />  
+<img src="assets/skills/tailwind.png" alt="Java" width="40" style="padding:5px" />
+<img src="assets/skills/node.png" alt="Java" width="40" style="padding:5px" />
+<img src="assets/skills/mongo.png" alt="Java" width="40" style="padding:5px" />
+<img src="assets/skills/express.png" alt="Java" width="40" style="padding:5px" />
+<img src="assets/skills/clerk.png" alt="Java" width="40" style="padding:5px" />
+<img src="assets/skills/postman.png" alt="Java" width="40" style="padding:5px" />
+<img src="assets/skills/sentry.png" alt="Java" width="40" style="padding:5px" />
+<img src="assets/skills/fastapi.png" alt="FastAPI" width="40" style="padding:5px"/>  
 <img src="assets/skills/git.png" alt="Git" width="40" style="padding:5px" />  
 <img src="assets/skills/github.png" alt="GitHub" width="40" style="padding:5px" />  
-<img src="assets/skills/aws.png" alt="AWS" width="40" style="padding:5px" />  
 <img src="assets/skills/vscode.png" alt="VSCode" width="40" style="padding:5px" />
 
 </p>
