@@ -73,8 +73,7 @@
 <img src="assets/skills/express.png" alt="Java" width="40" style="padding:5px" />
 <img src="assets/skills/clerk.png" alt="Java" width="40" style="padding:5px" />
 <img src="assets/skills/postman.png" alt="Java" width="40" style="padding:5px" />
-<img src="assets/skills/sentry.png" alt="Java" width="40" style="padding:5px" />
-<img src="assets/skills/fastapi.png" alt="FastAPI" width="40" style="padding:5px"/>  
+<img src="assets/skills/sentry.png" alt="Java" width="40" style="padding:5px" /> 
 <img src="assets/skills/git.png" alt="Git" width="40" style="padding:5px" />  
 <img src="assets/skills/github.png" alt="GitHub" width="40" style="padding:5px" />  
 <img src="assets/skills/vscode.png" alt="VSCode" width="40" style="padding:5px" />
