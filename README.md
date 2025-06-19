@@ -33,7 +33,6 @@
       </a>
     </td>
 
-<br>
     <td align="center" width="300" style="padding: 10px;">
       <img src="project_logos/insiderjobs.png" width="120" height="120" alt="Insiderjobs Logo" />
       <h3>Insider Jobs</h3>
