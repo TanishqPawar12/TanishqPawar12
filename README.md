@@ -51,6 +51,16 @@
       <a href="https://github.com/SimarjeetSArora/SABLE">
         <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
       </a>
+    </td>  
+    </td>
+    <td align="center" width="300" style="padding: 10px;">
+      <img src="project_logos/sable.png" width="120" height="120"  alt="SABLE Logo" />
+      <h3>SABLE</h3>
+      <p>Online shop for specially abled artisans with translation and payment integration.</p>
+      <sub><strong>Stack:</strong> HTML, CSS, JS, Bootstrap, MySQL, Razorpay</sub><br/>
+      <a href="https://github.com/SimarjeetSArora/SABLE">
+        <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
+      </a>
     </td>
   </tr>
 </table>
