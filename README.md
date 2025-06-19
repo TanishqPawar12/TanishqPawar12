@@ -44,7 +44,7 @@
       </a>
     </td>
     <td align="center" width="300" style="padding: 10px;">
-      <img src="project_logos/Estate.png" width="120" height="120"  alt="SABLE Logo" />
+      <img src="project_logos/Estate (1).png" width="120" height="120"  alt="SABLE Logo" />
       <h3>Estate</h3>
       <p>Interactive real estate marketplace featuring multilingual support and seamless payment integration.</p>
       <sub><strong>Stack:</strong> React.js, Tailwind.css</sub><br/>
